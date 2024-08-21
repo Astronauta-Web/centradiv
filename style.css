@@ -1,0 +1,15 @@
+/*Con la parte del body es con la que se centra el div con ayuda de css*/
+
+body {
+  background-color:indigo;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+div {
+  background-color:cornflowerblue;
+  width: 50px;
+  height: 50px;
+}
